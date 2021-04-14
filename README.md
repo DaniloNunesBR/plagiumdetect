@@ -7,5 +7,4 @@ Esse programa detecta o texto que possui maior similaridade com o texto principa
 3. No final ele retorna qual dos textos possui maior similaridade com o texto principal
 * O programa é estruturado e possui funções separadas, e pode ser facilmente editado
 para diversas funcionalidades, como por exemplo: Detectar plágio.
-Obs: Se nenhum texto tiver similaridade, ele retornará que o texto 1 é o mais similar,
-por isso, se ele retornar o texto 1, é necessário verificar na prática se houve plágio.
+Obs: Se nenhum texto tiver similaridade, ele retornará que o texto 1 é o mais similar.
